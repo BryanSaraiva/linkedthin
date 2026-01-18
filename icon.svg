@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 100 100" role="img" aria-label="LinkedIn style 'Thin'">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@700&amp;display=swap');
+    .bg { fill: #0077B5; }
+    .txt {
+      font-family: 'Source Sans 3', 'Source Sans Pro', 'Open Sans', Arial, sans-serif;
+      font-weight: 700;
+      font-size: 38px; 
+      dominant-baseline: middle;
+      text-anchor: middle;
+      fill: #ffffff;
+    }
+  </style>
+
+  <rect x="6" y="6" width="88" height="88" rx="12" class="bg"/>
+  <text x="50" y="52" class="txt">Thin</text>
+</svg>
