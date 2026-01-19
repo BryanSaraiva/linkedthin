@@ -16,7 +16,7 @@ LinkedIn often populates the user feed with "Suggested" or "Recommended" posts t
 
 LinkedThin is available via the official Firefox Add-ons gallery. 
 
-1. Visit the LinkedThin extension page on the Firefox Add-ons website.
+1. Visit the LinkedThin extension page on the [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/linkedthin/) website.
 2. Click the Add to Firefox button.
 3. Confirm the permissions when prompted to begin refining your feed immediately.
 
